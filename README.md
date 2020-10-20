@@ -8,4 +8,6 @@ Differences from kecinzer build:
 4- USB mapping;
 5- Opencanopy for better GUI on boot selection.
 
+Edit config.plist with your own PLATFORMINFO
+
 And that's it for now ;) The rest please go see on the original github.
