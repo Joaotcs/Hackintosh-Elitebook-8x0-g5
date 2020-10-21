@@ -5,7 +5,7 @@ Differences from kecinzer build:
 
 1- Additional IRQ conflict fixes (prevents problems) - not obligatory;
 
-2- Aditional .aml file for touchscreen (SSDT-TPL0.aml file and active on config.plist) - delete file and edit config.plist;
+2- Aditional .aml file for touchscreen (SSDT-TPL0.aml file and active on config.plist) - delete file and edit config.plist if you don't have it.
 
 3- Device Properties with fix for HDMI and USB-C video output, as well as audio spoof;
 
