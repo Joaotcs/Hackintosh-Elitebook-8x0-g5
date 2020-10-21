@@ -9,7 +9,7 @@ Differences from kecinzer build:
 
 3- Device Properties with fix for HDMI and USB-C video output, as well as audio spoof;
 
-4- USB mapping;
+4- USB mapping for fully working ports: smart card reader, camera, usb's, thunderbolt, bluetooth and also dock station!
 
 5- Opencanopy for better GUI on boot selection.
 
