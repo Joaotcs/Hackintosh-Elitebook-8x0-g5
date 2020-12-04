@@ -1,6 +1,9 @@
 Forked from https://github.com/kecinzer/hpelitebook850g5-opencore
 Using on a Elitebook 830 g5 with touchscreen, with fenvi BCM94360NG wifi card, 256gb NVME ssd, 8350u CPU, with working smart card reader.
 
+
+UPDATED FOR THE LATEST BIOS ONLY 1.14 (or more recent)
+
 Differences from kecinzer build:
 
 1- Additional IRQ conflict fixes (prevents problems) - not obligatory;
