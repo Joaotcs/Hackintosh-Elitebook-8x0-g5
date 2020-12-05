@@ -16,6 +16,8 @@ Differences from kecinzer build:
 
 5- Opencanopy for better GUI on boot selection.
 
+6- Less security restriction (makes the use of kext updater app possible).
+
 Edit config.plist with your own PLATFORMINFO
 
 And that's it for now ;) The rest please go see on the original github.
