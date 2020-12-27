@@ -1,6 +1,9 @@
+If you wish to buy me a beer/donate, I appreciate (this repo will ALWAYS be free and public!): http://paypal.me/joaotcs
+
+
 Forked from https://github.com/kecinzer/hpelitebook850g5-opencore
 Using on a Elitebook 830 g5 with touchscreen, with fenvi BCM94360NG wifi card, 256gb NVME ssd, 8350u CPU, with working smart card reader.
-
+IT SHOULD WORK AT LEAST FOR ANY 8X0 G5 elitebook.
 
 ABOUT CAMERA (WEBCAM): IT EITHER WORKS OR NOT! EACH COMPUTER HAS DIFFERENT NON ESSENTIAL COMPONENTS. CAMERA WORKS OUT OF THE BOX OR DOESN'T. 
 !! THERE IS NO POSSIBLE FIX FOR IT !!
@@ -25,6 +28,4 @@ Differences from kecinzer build:
 
 7- Fix for Touchpad/touchscreen not working after waking from sleep (?) needs more testing.
 
-Edit config.plist with your own PLATFORMINFO
-
-And that's it for now ;) The rest please go see on the original github.
+Final touches: please edit config.plist with your own PLATFORMINFO (each computer should have a unique info here).
