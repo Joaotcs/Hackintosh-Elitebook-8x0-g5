@@ -2,7 +2,7 @@ If you wish to buy me a beer/donate, I appreciate (this repo will ALWAYS be free
 
 
 Forked from https://github.com/kecinzer/hpelitebook850g5-opencore
-Using on a Elitebook 830 g5 with touchscreen, with fenvi BCM94360NG wifi card, 256gb NVME ssd, 8350u CPU, with working smart card reader.
+Using on a Elitebook 830 g5 with touchscreen, with fenvi BCM94360NG wifi card, 512gb NVME ssd, 8350u CPU, 16gb.
 IT SHOULD WORK AT LEAST FOR ANY 8X0 G5 elitebook.
 
 ABOUT CAMERA (WEBCAM): IT EITHER WORKS OR NOT! EACH COMPUTER HAS DIFFERENT NON ESSENTIAL COMPONENTS. CAMERA WORKS OUT OF THE BOX OR DOESN'T. 
@@ -27,5 +27,9 @@ Differences from kecinzer build:
 6- Less security restriction (makes the use of kext updater app possible).
 
 7- Fix for Touchpad/touchscreen not working after waking from sleep (?) needs more testing.
+
+WHAT DOESN'T WORK: Touchpad buttons, middle mouse joystick. Webcam might not work!! True Hybernation doesn't work (it only sleeps to RAM).
+Everything else seems to work properly!
+I do not support Native windows wifi card, but there are option that seems to work (ITLWM).
 
 Final touches: please edit config.plist with your own PLATFORMINFO (each computer should have a unique info here).
