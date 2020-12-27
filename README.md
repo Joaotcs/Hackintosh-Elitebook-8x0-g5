@@ -6,7 +6,7 @@ UPDATED FOR THE LATEST BIOS ONLY 1.14 (or more recent)
 
 Differences from kecinzer build:
 
-1- Additional IRQ conflict fixes (prevents problems) - not obligatory;
+1- AC Sleep Fixed;
 
 2- Aditional .aml file for touchscreen (SSDT-TPL0.aml file and active on config.plist) - delete file and edit config.plist if you don't have it.
 
@@ -17,6 +17,8 @@ Differences from kecinzer build:
 5- Opencanopy for better GUI on boot selection.
 
 6- Less security restriction (makes the use of kext updater app possible).
+
+7- Fix for Touchpad/touchscreen not working after waking from sleep (?) needs more testing.
 
 Edit config.plist with your own PLATFORMINFO
 
