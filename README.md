@@ -1,6 +1,8 @@
 If you wish to buy me a beer/donate, I appreciate (this repo will ALWAYS be free and public!): http://paypal.me/joaotcs
 
 
+Compatible with Catalina/Big Sur.
+
 Forked from https://github.com/kecinzer/hpelitebook850g5-opencore
 Using on a Elitebook 830 g5 with touchscreen, with fenvi BCM94360NG wifi card, 512gb NVME ssd, 8350u CPU, 16gb.
 IT SHOULD WORK AT LEAST FOR ANY 8X0 G5 elitebook.
