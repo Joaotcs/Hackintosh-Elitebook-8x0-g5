@@ -1,6 +1,3 @@
-If you wish to buy me a beer/donate, I appreciate (this repo will ALWAYS be free and public!): http://paypal.me/joaotcs
-
-
 Compatible with Catalina/Big Sur.
 
 Forked from https://github.com/kecinzer/hpelitebook850g5-opencore
