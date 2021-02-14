@@ -1,6 +1,7 @@
 Compatible with Catalina/Big Sur.
 
-Forked from https://github.com/kecinzer/hpelitebook850g5-opencore
+If I helped you, and if you wish and can, you can donate to my paypal: https://paypal.me/joaotcs
+
 Using on a Elitebook 830 g5 with touchscreen, with fenvi BCM94360NG wifi card, 512gb NVME ssd, 8350u CPU, 16gb.
 IT SHOULD WORK AT LEAST FOR ANY 8X0 G5 elitebook.
 
@@ -25,7 +26,7 @@ Differences from kecinzer build:
 
 6- Less security restriction (makes the use of kext updater app possible).
 
-7- Fix for Touchpad/touchscreen not working after waking from sleep (?) needs more testing.
+7- Fix for Touchpad/touchscreen not working after waking from sleep!!
 
 WHAT DOESN'T WORK: Touchpad buttons, middle mouse joystick. Webcam might not work!! True Hybernation doesn't work (it only sleeps to RAM).
 Everything else seems to work properly!
