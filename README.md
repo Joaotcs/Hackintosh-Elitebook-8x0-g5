@@ -1,8 +1,13 @@
 Compatible with Catalina/Big Sur.
 
+NO MAJOR BUGS atm (touchpad works always, if it stops after sleep, just wait 3seconds, and it will start working again).
+
+NOTICE: PM991, PM981 and Micro 2200 are troublesome! Do not use it for hackintosh! PM961 (as mine) is fine, as any other than these two.
+
 If I helped you, and if you wish and can, you can donate to my paypal: https://paypal.me/joaotcs
 
 Updated till Fev/2021. OpenCore 0.6.6
+Works with dual boot Windows 10 or any other OS.
 
 Using on a Elitebook 830 g5 with touchscreen, with fenvi BCM94360NG wifi card, 512gb NVME ssd, 8350u CPU, 16gb.
 IT SHOULD WORK AT LEAST FOR ANY 8X0 G5 elitebook.
