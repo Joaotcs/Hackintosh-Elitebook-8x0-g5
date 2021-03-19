@@ -6,7 +6,9 @@ NOTICE: PM991, PM981 and Micro 2200 are troublesome! Do not use it for hackintos
 
 If I helped you, and if you wish and can, you can donate to my paypal: https://paypal.me/joaotcs
 
-Updated till Fev/2021. OpenCore 0.6.6
+CLEAN NVRAM after every OPENCORE UPDATE to avoid errors.
+
+Updated till March/2021. OpenCore 0.6.7; MacOS 11.2.3
 Works with dual boot Windows 10 or any other OS.
 
 Using on a Elitebook 830 g5 with touchscreen, with fenvi BCM94360NG wifi card, 512gb NVME ssd, 8350u CPU, 16gb.
