@@ -1,4 +1,6 @@
-Compatible with Catalina/Big Sur.
+READ EVERYTHING.
+
+Compatible with Catalina/Big Sur. Might be compatible with older version (not tested).
 
 NO MAJOR BUGS atm (touchpad works always, if it stops after sleep, just wait 3seconds, and it will start working again).
 
