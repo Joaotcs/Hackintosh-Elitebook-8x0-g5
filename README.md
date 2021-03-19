@@ -19,7 +19,7 @@ IT SHOULD WORK AT LEAST FOR ANY 8X0 G5 elitebook.
 ABOUT CAMERA (WEBCAM): IT EITHER WORKS OR NOT! EACH COMPUTER HAS DIFFERENT NON ESSENTIAL COMPONENTS.
 !! THERE IS NO POSSIBLE FIX FOR IT !!
 
-Final touches: please edit config.plist with your own PLATFORMINFO (each computer should have a unique info here).
+Final touches: please edit config.plist with your own PLATFORMINFO (each computer should have a unique info here) - Other sections should not be touched (except if you know what you are doing and if you have older BIOS or a G4/6/7.
 
 
 
