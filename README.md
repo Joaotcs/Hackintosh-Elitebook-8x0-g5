@@ -4,7 +4,7 @@ Compatible with Catalina/Big Sur/Monterey. Might be compatible with older versio
 
 NO MAJOR BUGS atm.
 
-NOTICE: PM991, PM981 and Micro 2200 are troublesome! Do not use it for hackintosh! PM961 (as mine) is fine, as any other than these two.
+NOTICE: PM991, PM981 and Micro 2200 are troublesome! Do not use it for hackintosh! PM961 (as mine) is fine, as any other than these three.
 
 If I helped you, and if you wish and can, you can donate to my paypal: https://paypal.me/joaotcs
 
